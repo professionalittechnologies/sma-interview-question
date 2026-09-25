@@ -19,7 +19,6 @@
                               Avaliblity
                               Realiblity
                               Consistency
-
                               Throughput/Latency 
    
 
