@@ -12,6 +12,12 @@
 # Docker
 # Kubenets
 
+# DevOps
+
+# Cloud
+
+# Linux
+
 # System Design
    * Functional Requirment (Stock Market,Flipkart)
    * Non-Functional Requirment (1M-user)(10 lacs concurrent)
